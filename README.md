@@ -17,4 +17,6 @@
 - Đã upload ảnh chụp màn hình kết quả
 
 ### Minh họa
-![Can't Unsee](https://raw.githubusercontent.com/ducthi/my-project/main/images/cant-unsee.png)
+![Can't Unsee result](Screenshot%202026-01-08%20110909.png)
+
+
